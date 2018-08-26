@@ -1,5 +1,0 @@
-#============= untrusted_app ==============
-dontaudit untrusted_app proc:file read;
-
-#============= untrusted_app_25 ==============
-dontaudit untrusted_app_25 proc:file read;
